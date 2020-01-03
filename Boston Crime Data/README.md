@@ -3,3 +3,5 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 Records are from year  15th June 2015 to 13th October 2019.
 
 <img src="https://raw.githubusercontent.com/urvipasad/INSAID-EDA-Projects/master/Boston%20Crime%20Data/Boston%20Police%20Image.JPG" align='center'><br/>
+
+[Link to Jupyter Notebook: EDA on Boston Crime Data](http://https://github.com/urvipasad/INSAID-EDA-Projects/blob/master/Boston%20Crime%20Data/eda-on-crimes-in-boston.ipynb "Link to Jupyter Notebook: EDA on Boston Crime Data")
