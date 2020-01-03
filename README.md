@@ -21,3 +21,6 @@ Airbnb NYC 2019 data contains listing activity and metrics.
   - > Top 10 expensive listing names and their neighbourhood
   - > Top 10 cheapest listing names and their neighbourhood group
   - > How the rooms are distributed in each neighbourhood_group
+
+[Link to Jupyternotebook: Newyork-airbnb-data-visualization](https://github.com/urvipasad/INSAID-EDA-Projects/blob/master/New%20york%20Airbnb/newyork-airbnb-data-visualization.ipynb "Link to Jupyternotebook: Newyork-airbnb-data-visualization")
+
