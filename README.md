@@ -12,7 +12,9 @@ This EDA I have analyzed crime incident reports in the city of Boston from June 
   - > Which areas are prone to the different types of crimes to occur? 
   - > What is the pattern and likelihood of the crimes and frequency which changes over the day? Week? Year?
 
+[Link to Jupyternotebook: EDA on Crimes In Boston](https://github.com/urvipasad/INSAID-EDA-Projects/blob/master/Boston%20Crime%20Data/eda-on-crimes-in-boston.ipynb "Link to Jupyternotebook: EDA on Crimes In Boston")
 <a id=section2></a>
+
 ## 2. Data Visualization on Newyork Airbnb Listing
 Airbnb is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences since 2008. NYC is the most populous city in the United States and also one of the most popular tourism and business place in the world.
 Airbnb NYC 2019 data contains listing activity and metrics. 
